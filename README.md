@@ -9,5 +9,8 @@ Add Mode to add credentials
 View mode to view credentials
 Save in the encryptyed ways and only viewer can see the decrypted password
 
+Note:-
+All the code is in password_manager.py
+
 -----------------------------
 <<<<<<<<<<<<<<<<<<<<<----Working on it to make it more protected---->>>>>>>>>>>>>>>>>>>>>> 
